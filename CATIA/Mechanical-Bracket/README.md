@@ -7,7 +7,7 @@ A mechanical component designed using CATIA.
 - CATIA V5
 
 ## Files
-- Native CATIA part file: `.CATPart`
+- Native CATIA part file: `CH5_EXC1.CATPart`
 - Screenshot: `Mechanical-Bracket.png`
 
 ## Design Notes
